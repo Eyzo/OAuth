@@ -1,0 +1,12 @@
+{
+    "name": "tony.duhamel/o-auth",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/var-dumper": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "php"
+        }
+    }
+}
